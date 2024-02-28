@@ -1,6 +1,6 @@
 python_paramiko을 이용한 자동화 스크립트 
 -----------------------------------
-OS: centOS 7버전
+OS: centOS 7버전 \
 사용 목적: 여러 서버의 장비 운용 중 IP set을 원격으로 수정 하기위한 자동화 스크립트
 
 Installaion
